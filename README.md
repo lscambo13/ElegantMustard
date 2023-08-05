@@ -1,4 +1,4 @@
-# ElegantMustard
+# Elegant Mustard (Custom Overlay)
 An elegant RTSS overlay to showcase your benchmark stats in style.
 
 
@@ -20,3 +20,5 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 ### 👇 How to install this custom overlay in Afterburner/Rivatuner 👇
 ![1](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%201.png)
 ![2](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%202.png)
+
+## 🙏 FEEDBACK APPRECIATED
