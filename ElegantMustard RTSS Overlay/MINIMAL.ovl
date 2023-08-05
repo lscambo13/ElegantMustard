@@ -1,0 +1,424 @@
+[Master]
+Implementation=2
+FontFace=Bahnschrift Light SemiCondensed
+FontHeight=-9
+FontWeight=300
+ZoomRatio=3
+[Settings]
+Name=
+RefreshPeriod=1000
+EmbeddedImage=
+PingAddr=
+[General]
+Sources=28
+Tables=0
+Layers=14
+[Source0]
+Name=Fan speed
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000010
+Gpu=00000000
+SrcName=
+[Source1]
+Name=Fan speed 2
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000012
+Gpu=00000000
+SrcName=
+[Source2]
+Name=GPU usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000030
+Gpu=00000000
+SrcName=
+[Source3]
+Name=Core clock
+Units=MHz
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000020
+Gpu=00000000
+SrcName=
+[Source4]
+Name=GPU temperature
+Units=°C
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000000
+Gpu=00000000
+SrcName=
+[Source5]
+Name=Power
+Units=W
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000061
+Gpu=00000000
+SrcName=
+[Source6]
+Name=Memory clock
+Units=MHz
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000022
+Gpu=00000000
+SrcName=
+[Source7]
+Name=Memory usage
+Units=GB
+Format=%0.2f
+Formula=x/1024
+Provider=MSI Afterburner
+SrcId=00000031
+Gpu=00000000
+SrcName=
+[Source8]
+Name=CPU usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=FFFFFFFF
+SrcName=
+[Source9]
+Name=CPU clock
+Units=MHz
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=000000A0
+Gpu=FFFFFFFF
+SrcName=
+[Source10]
+Name=CPU temperature
+Units=°C
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000080
+Gpu=FFFFFFFF
+SrcName=
+[Source11]
+Name=CPU1 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000000
+SrcName=
+[Source12]
+Name=CPU2 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000001
+SrcName=
+[Source13]
+Name=CPU3 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000002
+SrcName=
+[Source14]
+Name=CPU4 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000003
+SrcName=
+[Source15]
+Name=CPU5 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000004
+SrcName=
+[Source16]
+Name=CPU6 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000005
+SrcName=
+[Source17]
+Name=CPU7 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000006
+SrcName=
+[Source18]
+Name=CPU8 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000007
+SrcName=
+[Source19]
+Name=CPU9 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000008
+SrcName=
+[Source20]
+Name=CPU10 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=00000009
+SrcName=
+[Source21]
+Name=CPU11 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=0000000A
+SrcName=
+[Source22]
+Name=CPU12 usage
+Units=%
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000090
+Gpu=0000000B
+SrcName=
+[Source23]
+Name=CPU power
+Units=W
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000100
+Gpu=FFFFFFFF
+SrcName=
+[Source24]
+Name=RAM usage
+Units=GB
+Format=%0.2f
+Formula=x/1024
+Provider=MSI Afterburner
+SrcId=00000091
+Gpu=00000000
+SrcName=
+[Source25]
+Name=Framerate
+Units=FPS
+Format=%0.1f
+Formula=
+Provider=MSI Afterburner
+SrcId=00000050
+Gpu=FFFFFFFF
+SrcName=
+[Source26]
+Name=Frametime
+Units=ms
+Format=%0.1f
+Formula=
+Provider=MSI Afterburner
+SrcId=00000051
+Gpu=FFFFFFFF
+SrcName=
+[Source27]
+Name=Framerate 1% Low
+Units=FPS
+Format=
+Formula=
+Provider=MSI Afterburner
+SrcId=00000055
+Gpu=FFFFFFFF
+SrcName=
+[Layer0]
+Name=
+Text=
+PositionX=0
+PositionY=0
+ExtentX=-27
+ExtentY=-6
+ExtentOrigin=0
+Alignment=-5
+FixedAlignment=1
+TextColor=FFFFFF
+BgndColor=80000000
+[Layer1]
+Name=
+Text=%Framerate%
+PositionX=-6
+PositionY=-1
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-6
+FixedAlignment=1
+TextColor=F4E515
+[Layer2]
+Name=
+Text=FPS
+PositionX=-2
+PositionY=-1
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FFFFFF
+[Layer3]
+Name=
+Text=<G=Framerate,-10,-2,0,0,240,0>
+PositionX=-2
+PositionY=-2
+ExtentX=-8
+ExtentY=-2
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=F4E515
+BorderColor=33595959
+BorderSize=1
+[Layer4]
+Name=
+Text=
+PositionX=-2
+PositionY=-2
+ExtentX=-1
+ExtentY=-2
+ExtentOrigin=0
+FixedAlignment=1
+BgndColor=7FFFFFFF
+MarginRight=4
+[Layer5]
+Name=
+Text=<G=Frametime,-10,-2,0,0,50,0>
+PositionX=-15
+PositionY=-2
+ExtentX=-10
+ExtentY=-2
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=F4E515
+BorderColor=33595959
+BorderSize=1
+[Layer6]
+Name=
+Text=%Frametime%
+PositionX=-18
+PositionY=-1
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+Alignment=-7
+FixedAlignment=1
+TextColor=F4E515
+[Layer7]
+Name=
+Text=ms
+PositionX=-15
+PositionY=-1
+ExtentX=-2
+ExtentY=-1
+ExtentOrigin=0
+FixedAlignment=1
+TextColor=FFFFFF
+[Layer8]
+Name=
+Text=
+PositionX=-15
+PositionY=-2
+ExtentX=-1
+ExtentY=-2
+ExtentOrigin=0
+FixedAlignment=1
+BgndColor=7FFFFFFF
+MarginRight=4
+[Layer9]
+Name=
+Text=
+PositionX=0
+PositionY=0
+ExtentX=-1
+ExtentY=-6
+ExtentOrigin=0
+FixedAlignment=1
+BgndColor=7FF4E515
+MarginRight=4
+[Layer10]
+Name=
+Text=1% FPS
+PositionX=-2
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+Size=90
+TextColor=FFFFFF
+[Layer11]
+Name=
+Text=%Framerate 1% Low%
+PositionX=-7
+PositionY=-4
+ExtentX=-5
+ExtentY=-1
+ExtentOrigin=0
+Alignment=-5
+FixedAlignment=1
+Size=90
+TextColor=F4E515
+[Layer12]
+Name=
+Text=0.1% FPS
+PositionX=-15
+PositionY=-4
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+FixedAlignment=1
+Size=90
+TextColor=FFFFFF
+[Layer13]
+Name=
+Text=<FR01L>
+PositionX=-21
+PositionY=-4
+ExtentX=-4
+ExtentY=-1
+ExtentOrigin=0
+Alignment=-4
+FixedAlignment=1
+Size=90
+TextColor=F4E515
