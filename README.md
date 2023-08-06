@@ -24,6 +24,7 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 ### 🕵️ If it doesn't look correct for you,
 - zoom in more from Rivatuner
 - make sure you've ticked all the stats in Afterburner
-- use Barnchrift font (semi condensed) in Rivatuner 
+- use Raster 3D text rendering in Rivatuner
+- use Barnchrift font (semi condensed) in Rivatuner
 
 ## 🙏 FEEDBACK APPRECIATED
