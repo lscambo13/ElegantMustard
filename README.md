@@ -1,4 +1,4 @@
-# Elegant Mustard (Custom Overlay)
+# Elegant Mustard (Custom RTSS Overlay)
 An elegant RTSS overlay to showcase your benchmark stats in style.
 
 
