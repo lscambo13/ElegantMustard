@@ -24,10 +24,11 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 ![1](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%201.png)
 ![2](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%202.png)
 
-### 🕵️ If it doesn't look correct for you,
-- zoom in more from Rivatuner
+### 🕵️ If it doesn't look correct for you, try to
+- increase on-screen zoom (slider) in Rivatuner
 - make sure you've ticked all the stats in Afterburner
 - use Raster 3D text rendering in Rivatuner
-- use Barnchrift font (semi condensed) in Rivatuner
+- use Barnchrift font (semi condensed) in Rivatuner [FOR EXPANDED VARIENTS]
+- use Unispace font with shadow in Rivatuner [FOR SLIM VARIENTS]
 
 ## 🙏 FEEDBACK APPRECIATED
