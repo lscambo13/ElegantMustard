@@ -15,6 +15,9 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 ![compact](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/compact_v1%20(Phone).png)
 ![minimal](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/minimal_v1%20(Phone).png)
 
+### ❔New Slimmer Varient
+![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/Screenshot%20(342).png)
+
 ### 📁 [High Quality Previews](https://github.com/lscambo13/ElegantMustard/tree/main/Previews)
 
 ### 👇 How to install this custom overlay in Afterburner/Rivatuner 👇
