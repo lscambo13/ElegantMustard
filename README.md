@@ -1,14 +1,12 @@
 # Elegant Mustard (Custom RTSS Overlay)
 An elegant RTSS overlay to showcase your benchmark stats in style.
 
-
 ## 💾 [`Click here to download ./> `](https://github.com/lscambo13/ElegantMustard/releases)
 #### **Author:** [lscambo13](https://github.com/lscambo13)
 
 ## 🤔 REQUIREMENTS
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - Rivatuner Statistics Server (RTSS) (Bundled with Afterburner)
-
 
 ### ❔ Different Varients (Full, Compact & Minimal) (Version 1)
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/full_v1%20(Phone).png)
@@ -19,6 +17,8 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/Screenshot%20(342).png)
 
 ### 📁 [High Quality Previews](https://github.com/lscambo13/ElegantMustard/tree/main/Previews)
+
+<hr>
 
 ### 👇 How to install this custom overlay?  👇
 <details>
@@ -32,6 +32,8 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_02.png" />
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03.png" />
 </details>
+
+<hr>
 
 ### 🕵️ If it doesn't look correct for you, try to
 - increase on-screen zoom (slider) in Rivatuner
