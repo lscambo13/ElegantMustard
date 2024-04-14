@@ -8,13 +8,13 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - Rivatuner Statistics Server (RTSS) (Bundled with Afterburner)
 
-### ❔ Different Varients (Full, Compact & Minimal) (Version 1)
+### ❔New Slimmer Varient (Version 2 and above)
+![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/Screenshot%20(342).png)
+
+### ❔ Old Varients (Full, Compact & Minimal) (Version 1)
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/full_v1%20(Phone).png)
 ![compact](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/compact_v1%20(Phone).png)
 ![minimal](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/minimal_v1%20(Phone).png)
-
-### ❔New Slimmer Varient (Version 2 and above)
-![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/Screenshot%20(342).png)
 
 ### 📁 [High Quality Previews](https://github.com/lscambo13/ElegantMustard/tree/main/Previews)
 
@@ -22,15 +22,15 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 
 ### 👇 How to install this custom overlay?  👇
 <details>
-  <summary><b>Using Afterburner (For Version 3 and below)</b></summary>
-  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%201.png" />
-  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%201.png" />
-</details>
-<details>
   <summary><b>Using Rivatuner (For Version 4 and above)</b></summary>
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_01.png" />
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_02.png" />
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03.png" />
+</details>
+<details>
+  <summary><b>Using Afterburner (For Version 3 and below)</b></summary>
+  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%201.png" />
+  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/STEP%201.png" />
 </details>
 
 <hr>
