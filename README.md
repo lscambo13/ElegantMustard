@@ -12,11 +12,13 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/Screenshot%20(342).png)
 
 ### ❔ Old Varients (Full, Compact & Minimal) (Version 1)
+📁 [High Quality Previews](https://github.com/lscambo13/ElegantMustard/tree/main/Previews)
+
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/full_v1%20(Phone).png)
 ![compact](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/compact_v1%20(Phone).png)
 ![minimal](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/minimal_v1%20(Phone).png)
 
-### 📁 [High Quality Previews](https://github.com/lscambo13/ElegantMustard/tree/main/Previews)
+
 
 <hr>
 
