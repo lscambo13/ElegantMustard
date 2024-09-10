@@ -17,7 +17,8 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
   <summary><b>Using Rivatuner (For Version 4 and above)</b></summary>
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_01.png" />
   <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_02.png" />
-  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03.png" />
+  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03-returnal.png" />
+  <img src="https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03-steamdeck.png" />
 </details>
 <details>
   <summary><b>Using Afterburner (For Version 3 and below)</b></summary>
@@ -28,11 +29,13 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 <hr>
 
 ### 🕵️ If it doesn't look correct for you,
-- use Barnchrift font (semi condensed) in Rivatuner [FOR VERSIONS INSPIRED FROM RETURNAL]
-- use Unispace font with shadow in Rivatuner [FOR VERSIONS INSPIRED FROM STEAM DECK]
+- [use Barnchrift font (Semi Light Semi Condensed, size 7) in Rivatuner [FOR VERSIONS INSPIRED FROM RETURNAL]](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03-returnal.png)
+- [turn off On-Screen Display Shadow in Rivatuner [FOR VERSIONS INSPIRED FROM RETURNAL]](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03-returnal.png)
+- [use Unispace font with shadow in Rivatuner [FOR VERSIONS INSPIRED FROM STEAM DECK]](https://github.com/lscambo13/ElegantMustard/blob/main/Guide/rtss_step_03-steamdeck.png)
 - increase on-screen zoom (slider) in Rivatuner
 - make sure you've ticked all the stats in Afterburner and RTSS
 - use Raster 3D text rendering in Rivatuner
+- check screenshots in the previous section
 
 <hr>
 
