@@ -39,10 +39,10 @@ An elegant RTSS overlay to showcase your benchmark stats in style.
 
 <hr>
 
-### ❔New slimmer varients inspired from the benchmark tool in Returnal
+### 🅰️ Slimmer varient inspired from statistics top bar in the Steam Deck
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/Screenshot%20(342).png)
 
-### ❔ Old varients inspired from Steam Deck statistics top bar (Full, Compact & Minimal)
+### 🅱️ Three other varients inspired from the benchmark tool in Returnal (Full, Compact & Minimal)
 📁 [High Quality Previews](https://github.com/lscambo13/ElegantMustard/tree/main/Previews)
 
 ![full](https://github.com/lscambo13/ElegantMustard/blob/main/Previews/full_v1%20(Phone).png)
